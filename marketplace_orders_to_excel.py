@@ -17,10 +17,10 @@ from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeo
 
 # ===== Константы =====
 API_KEYS = {
-    "wildberries": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjIwMjUwNDE3djEiLCJ0eXAiOiJKV1QifQ.eyJlbnQiOjEsImV4cCI6MTc2MTI3MTA4MywiaWQiOiIwMTk2NjgxNy01YjUxLTc5YTItOTk4ZS1mNjcyNTA4ZjcyMmUiLCJpaWQiOjEwNDI1MjM5MCwib2lkIjoyOTgzMCwicyI6NzkzNCwic2lkIjoiZjc0Y2ExYmUtYzVjMi01OTNjLWEzZGItM2M2ZGI3YjE0MGJiIiwidCI6ZmFsc2UsInVuZCI6MTA0MjUyMzkwfQ.x-N67msygbk6lD9cvN4ugFanH1kL_McIOe8iREzIz6cXofNVh6bJsskdqshjzoMGMHCTycuh06m1SfCMO5bkXw",
-    "ozon": "e5d79470-d4db-4d99-bc5d-9701d083ff19",  # Обновлённый API-ключ Ozon
+    "wildberries": "LCJpaWQiOjEwNDI1MjM5MCwib2lkIjoyOTgzMCwicyI6NzkzNCwic2lkIjoiZjc0Y2ExYmUtYzVjMi01OTNjLWEzZGItM2M2ZGI3YjE0MGJiIiwidCI6ZmFsc2UsInVuZCI6MTA0MjUyMzkwfQ.x-N67msygbk6lD9cvN4ugFanH1kL_McIOe8iREzIz6cXofNVh6bJsskdqshjzoMGMHCTycuh06m1SfCMO5bkXw",
+    "ozon": "e5d79470-d49",  # Обновлённый API-ключ Ozon
 }
-OZON_CLIENT_ID = "35457"  # Обновлённый Client-ID Ozon
+OZON_CLIENT_ID = "57"  # Обновлённый Client-ID Ozon
 CONFIG = {
     "enable_notification_sound": True,
     "max_retries": 3,
