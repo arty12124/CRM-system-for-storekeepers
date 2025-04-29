@@ -64,7 +64,7 @@ The program is useful for small warehouses or private sellers who work with mult
 
 _______________________________________________
 
-Upload app v2
+Upload app v2 - https://github.com/arty12124/CRM-system-for-storekeepers/blob/main/marketplace_CRM.py
 
 
 ![{57A3A700-5063-403E-B415-508AAB109016}](https://github.com/user-attachments/assets/e67923b8-3dc3-4e08-a7a1-2ea5464fef86)
