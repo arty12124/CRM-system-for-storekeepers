@@ -60,3 +60,24 @@ For storekeepers: The program simplifies work with orders, allowing you to quick
 For automation: Reduces manual labor — no need to manually check orders on marketplace sites.
 For control: All data is stored in one place, with filters and the ability to manage statuses, which helps not to miss important orders.
 The program is useful for small warehouses or private sellers who work with multiple marketplaces and want to centrally manage orders.
+
+
+_______________________________________________
+
+Upload app v2
+
+
+![{57A3A700-5063-403E-B415-508AAB109016}](https://github.com/user-attachments/assets/e67923b8-3dc3-4e08-a7a1-2ea5464fef86)
+
+
+Добавленна новая вкладка настройки в которой нужно вписывать константы в ручную в поле инпута и не лезть в код
+так же убрать звук уведомлений можно
+поставить попытки запроса и кэф задержки 
+
+
+A new settings tab has been added in which you need to manually enter constants in the input field and not go into the code
+. You can also remove the notification sound. You can
+set request attempts and delay kef
+
+
+
